@@ -18,7 +18,7 @@ django-polls uses a number of open source projects to work properly:
 
 -[Python] - Python
 
-## Running playgrounds
+## Run
 
 ```sh
 cd django-polls
