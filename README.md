@@ -16,7 +16,7 @@ Download zip file and extract it [latest release](https://github.com/reysmerwvr/
 
 django-polls uses a number of open source projects to work properly:
 
--[Python] - Python
+- [Python] - Python
 
 ## Run
 
